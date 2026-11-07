@@ -1,0 +1,7 @@
+node_modules/
+Server/tasks.db
+Server/tasks.db-journal
+Server/tasks.db-shm
+Server/tasks.db-wal
+.env
+npm-debug.log*
